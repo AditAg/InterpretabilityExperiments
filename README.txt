@@ -13,3 +13,6 @@ Instructions for running:
 2. Set no_samples_all as the list of no. of samples used for training of both models A and B. Based on the dataset, calculate the number of samples corresponding to 10-100% of the dataset and put the list of samples here.
 
 2. Run python finalWithLogEntropy.py.
+
+
+Plotting code will be added in future commit.
